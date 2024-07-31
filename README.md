@@ -15,7 +15,7 @@
 ## 注意事项
 1. 根据台湾在联合国中的政治地位，其被视为“中国”的一部分；在ISO 3166-1标准中，台湾名称为：“中国台湾省”（英语：Taiwan, Province of China；法语：Taïwan, Province de Chine；直译：“台湾，中国的省”）之名称，并另编入ISO 3166-2:CN中，代码为CN-TW。
 2. 科索沃共和国（英语：Republic of Kosovo；阿尔巴尼亚语：Republika e Kosovës；塞尔维亚语：Република Косово）未编入该标准，故未包含。
-3. 南极洲（英语：Antarctica）为一个特殊的地理区域，无主权归属，因此`sovereignty`为`independent`。
+3. 南极洲（英语：Antarctica）为特殊的地理区域，无主权归属，因此`sovereignty`为`independent`。
 4. 巴勒斯坦国（英语：State of Palestine；阿拉伯语：دولة فلسطين）和阿拉伯西撒哈拉民主共和国（英语：Sahrawi Arab Democratic Republic；阿拉伯语：الجمهورية العربية الصحراوية الديمقراطية）为有限承认国家，在该标准中未被标记为主权国家，但其主权事实上独立，故其`sovereignty`为`independent`。
 5. 其他争议地区由于未在标准中出现，故未包含。
 6. 本项目数据仅供参考，不作为任何政治倾向之表达。
