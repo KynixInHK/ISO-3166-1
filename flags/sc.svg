@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><defs><clipPath id="clip-rounded"><rect x="0" y="0" width="512" height="512" rx="128" ry="128" /></clipPath></defs><g clip-path="url(#clip-rounded)"><path fill="#0052b4" d="M0 512 202.7 0H0z" /><path fill="#ffda44" d="M0 512 373.3 0H170.7z" /><path fill="#d80027" d="M341.3 0 0 512l512-309.3V0z" /><path fill="#eeeeee" d="m0 512 512-341.3v202.6z" /><path fill="#6da544" d="m0 512 512-170.7V512z" /></g></svg>
