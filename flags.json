@@ -1,0 +1,1674 @@
+{
+    "name": "Flags",
+    "description": "By KynixInHK",
+    "icons": [
+        {
+            "name": "hn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hn.svg"
+        },
+        {
+            "name": "dm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/dm.svg"
+        },
+        {
+            "name": "fr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fr.svg"
+        },
+        {
+            "name": "dz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/dz.svg"
+        },
+        {
+            "name": "ga",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ga.svg"
+        },
+        {
+            "name": "it-23",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-23.svg"
+        },
+        {
+            "name": "ph",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ph.svg"
+        },
+        {
+            "name": "ss",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ss.svg"
+        },
+        {
+            "name": "rw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/rw.svg"
+        },
+        {
+            "name": "es-ib",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ib.svg"
+        },
+        {
+            "name": "sd",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sd.svg"
+        },
+        {
+            "name": "east_african_federation",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/east_african_federation.svg"
+        },
+        {
+            "name": "aq-true_south",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/aq-true_south.svg"
+        },
+        {
+            "name": "in-gj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-gj.svg"
+        },
+        {
+            "name": "hausa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hausa.svg"
+        },
+        {
+            "name": "ru-da",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-da.svg"
+        },
+        {
+            "name": "ru-ko",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-ko.svg"
+        },
+        {
+            "name": "cn-xj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cn-xj.svg"
+        },
+        {
+            "name": "et-ga",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-ga.svg"
+        },
+        {
+            "name": "se",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/se.svg"
+        },
+        {
+            "name": "sr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sr.svg"
+        },
+        {
+            "name": "it-36",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-36.svg"
+        },
+        {
+            "name": "us-in",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-in.svg"
+        },
+        {
+            "name": "eh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/eh.svg"
+        },
+        {
+            "name": "gw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gw.svg"
+        },
+        {
+            "name": "es-pv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-pv.svg"
+        },
+        {
+            "name": "jp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/jp.svg"
+        },
+        {
+            "name": "hm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hm.svg"
+        },
+        {
+            "name": "je",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/je.svg"
+        },
+        {
+            "name": "gu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gu.svg"
+        },
+        {
+            "name": "gb",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb.svg"
+        },
+        {
+            "name": "it-34",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-34.svg"
+        },
+        {
+            "name": "pk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pk.svg"
+        },
+        {
+            "name": "sg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sg.svg"
+        },
+        {
+            "name": "gb-con",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-con.svg"
+        },
+        {
+            "name": "ewe",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ewe.svg"
+        },
+        {
+            "name": "northern_cyprus",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/northern_cyprus.svg"
+        },
+        {
+            "name": "ru",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru.svg"
+        },
+        {
+            "name": "it-21",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-21.svg"
+        },
+        {
+            "name": "do",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/do.svg"
+        },
+        {
+            "name": "gt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gt.svg"
+        },
+        {
+            "name": "us-hi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-hi.svg"
+        },
+        {
+            "name": "kw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kw.svg"
+        },
+        {
+            "name": "sh-hl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sh-hl.svg"
+        },
+        {
+            "name": "occitania",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/occitania.svg"
+        },
+        {
+            "name": "il",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/il.svg"
+        },
+        {
+            "name": "us-gu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-gu.svg"
+        },
+        {
+            "name": "it-25",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-25.svg"
+        },
+        {
+            "name": "gg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gg.svg"
+        },
+        {
+            "name": "gp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gp.svg"
+        },
+        {
+            "name": "dk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/dk.svg"
+        },
+        {
+            "name": "sb",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sb.svg"
+        },
+        {
+            "name": "py",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/py.svg"
+        },
+        {
+            "name": "pn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pn.svg"
+        },
+        {
+            "name": "su",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/su.svg"
+        },
+        {
+            "name": "af-emirate",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/af-emirate.svg"
+        },
+        {
+            "name": "quechua",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/quechua.svg"
+        },
+        {
+            "name": "bq-bo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bq-bo.svg"
+        },
+        {
+            "name": "st",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/st.svg"
+        },
+        {
+            "name": "sc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sc.svg"
+        },
+        {
+            "name": "dj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/dj.svg"
+        },
+        {
+            "name": "gq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gq.svg"
+        },
+        {
+            "name": "gf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gf.svg"
+        },
+        {
+            "name": "kr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kr.svg"
+        },
+        {
+            "name": "im",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/im.svg"
+        },
+        {
+            "name": "ke",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ke.svg"
+        },
+        {
+            "name": "us-ga",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ga.svg"
+        },
+        {
+            "name": "kg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kg.svg"
+        },
+        {
+            "name": "gb-nir",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-nir.svg"
+        },
+        {
+            "name": "et-sw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-sw.svg"
+        },
+        {
+            "name": "hk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hk.svg"
+        },
+        {
+            "name": "kp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kp.svg"
+        },
+        {
+            "name": "io",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/io.svg"
+        },
+        {
+            "name": "gd",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gd.svg"
+        },
+        {
+            "name": "it-32",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-32.svg"
+        },
+        {
+            "name": "gs",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gs.svg"
+        },
+        {
+            "name": "sa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sa.svg"
+        },
+        {
+            "name": "re",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/re.svg"
+        },
+        {
+            "name": "pm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pm.svg"
+        },
+        {
+            "name": "sv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sv.svg"
+        },
+        {
+            "name": "sy-sar",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sy-sar.svg"
+        },
+        {
+            "name": "iq-kr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/iq-kr.svg"
+        },
+        {
+            "name": "pk-jk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pk-jk.svg"
+        },
+        {
+            "name": "yorubaland",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/yorubaland.svg"
+        },
+        {
+            "name": "es-variant",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-variant.svg"
+        },
+        {
+            "name": "rs",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/rs.svg"
+        },
+        {
+            "name": "pl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pl.svg"
+        },
+        {
+            "name": "gr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gr.svg"
+        },
+        {
+            "name": "ge",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ge.svg"
+        },
+        {
+            "name": "in",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in.svg"
+        },
+        {
+            "name": "mv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mv.svg"
+        },
+        {
+            "name": "lr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lr.svg"
+        },
+        {
+            "name": "us-co",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-co.svg"
+        },
+        {
+            "name": "ma",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ma.svg"
+        },
+        {
+            "name": "nz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nz.svg"
+        },
+        {
+            "name": "au",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au.svg"
+        },
+        {
+            "name": "bn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bn.svg"
+        },
+        {
+            "name": "us-ms",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ms.svg"
+        },
+        {
+            "name": "by",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/by.svg"
+        },
+        {
+            "name": "tt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tt.svg"
+        },
+        {
+            "name": "ug",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ug.svg"
+        },
+        {
+            "name": "tc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tc.svg"
+        },
+        {
+            "name": "somaliland",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/somaliland.svg"
+        },
+        {
+            "name": "es-ct",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ct.svg"
+        },
+        {
+            "name": "ye",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ye.svg"
+        },
+        {
+            "name": "ac",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ac.svg"
+        },
+        {
+            "name": "it-55",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-55.svg"
+        },
+        {
+            "name": "ck",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ck.svg"
+        },
+        {
+            "name": "bo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bo.svg"
+        },
+        {
+            "name": "at",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/at.svg"
+        },
+        {
+            "name": "it-82",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-82.svg"
+        },
+        {
+            "name": "fr-20r",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fr-20r.svg"
+        },
+        {
+            "name": "ls",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ls.svg"
+        },
+        {
+            "name": "mw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mw.svg"
+        },
+        {
+            "name": "nl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nl.svg"
+        },
+        {
+            "name": "us-as",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-as.svg"
+        },
+        {
+            "name": "mu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mu.svg"
+        },
+        {
+            "name": "ci",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ci.svg"
+        },
+        {
+            "name": "bm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bm.svg"
+        },
+        {
+            "name": "us-mp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-mp.svg"
+        },
+        {
+            "name": "it-57",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-57.svg"
+        },
+        {
+            "name": "bz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bz.svg"
+        },
+        {
+            "name": "tw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tw.svg"
+        },
+        {
+            "name": "us",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us.svg"
+        },
+        {
+            "name": "bq-sa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bq-sa.svg"
+        },
+        {
+            "name": "guarani",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/guarani.svg"
+        },
+        {
+            "name": "ru-ba",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-ba.svg"
+        },
+        {
+            "name": "ru-ce",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-ce.svg"
+        },
+        {
+            "name": "au-vic",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-vic.svg"
+        },
+        {
+            "name": "maori",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/maori.svg"
+        },
+        {
+            "name": "gb-ork",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-ork.svg"
+        },
+        {
+            "name": "ta",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ta.svg"
+        },
+        {
+            "name": "vi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/vi.svg"
+        },
+        {
+            "name": "tv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tv.svg"
+        },
+        {
+            "name": "it-42",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-42.svg"
+        },
+        {
+            "name": "bl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bl.svg"
+        },
+        {
+            "name": "aw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/aw.svg"
+        },
+        {
+            "name": "ch",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ch.svg"
+        },
+        {
+            "name": "mc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mc.svg"
+        },
+        {
+            "name": "mt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mt.svg"
+        },
+        {
+            "name": "no",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/no.svg"
+        },
+        {
+            "name": "us-ar",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ar.svg"
+        },
+        {
+            "name": "lc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lc.svg"
+        },
+        {
+            "name": "mg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mg.svg"
+        },
+        {
+            "name": "lt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lt.svg"
+        },
+        {
+            "name": "tibet",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tibet.svg"
+        },
+        {
+            "name": "mp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mp.svg"
+        },
+        {
+            "name": "it-52",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-52.svg"
+        },
+        {
+            "name": "ad",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ad.svg"
+        },
+        {
+            "name": "cl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cl.svg"
+        },
+        {
+            "name": "as",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/as.svg"
+        },
+        {
+            "name": "bh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bh.svg"
+        },
+        {
+            "name": "ua",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ua.svg"
+        },
+        {
+            "name": "tr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tr.svg"
+        },
+        {
+            "name": "sh-ta",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sh-ta.svg"
+        },
+        {
+            "name": "yu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/yu.svg"
+        },
+        {
+            "name": "soviet_union",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/soviet_union.svg"
+        },
+        {
+            "name": "in-tn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-tn.svg"
+        },
+        {
+            "name": "bq-se",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bq-se.svg"
+        },
+        {
+            "name": "in-or",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-or.svg"
+        },
+        {
+            "name": "in-mz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-mz.svg"
+        },
+        {
+            "name": "yt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/yt.svg"
+        },
+        {
+            "name": "us-vi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-vi.svg"
+        },
+        {
+            "name": "es-ce",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ce.svg"
+        },
+        {
+            "name": "td",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/td.svg"
+        },
+        {
+            "name": "bi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bi.svg"
+        },
+        {
+            "name": "ar",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ar.svg"
+        },
+        {
+            "name": "cm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cm.svg"
+        },
+        {
+            "name": "ae",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ae.svg"
+        },
+        {
+            "name": "cz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cz.svg"
+        },
+        {
+            "name": "au-sa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-sa.svg"
+        },
+        {
+            "name": "mq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mq.svg"
+        },
+        {
+            "name": "lu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lu.svg"
+        },
+        {
+            "name": "mf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mf.svg"
+        },
+        {
+            "name": "lb",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lb.svg"
+        },
+        {
+            "name": "md",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/md.svg"
+        },
+        {
+            "name": "nl-fr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nl-fr.svg"
+        },
+        {
+            "name": "ms",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ms.svg"
+        },
+        {
+            "name": "ag",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ag.svg"
+        },
+        {
+            "name": "cx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cx.svg"
+        },
+        {
+            "name": "it-45",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-45.svg"
+        },
+        {
+            "name": "us-nm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-nm.svg"
+        },
+        {
+            "name": "sh-ac",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sh-ac.svg"
+        },
+        {
+            "name": "co",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/co.svg"
+        },
+        {
+            "name": "es-ml",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ml.svg"
+        },
+        {
+            "name": "tf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tf.svg"
+        },
+        {
+            "name": "vn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/vn.svg"
+        },
+        {
+            "name": "et-af",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-af.svg"
+        },
+        {
+            "name": "zm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/zm.svg"
+        },
+        {
+            "name": "gb-sct",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-sct.svg"
+        },
+        {
+            "name": "mq-old",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mq-old.svg"
+        },
+        {
+            "name": "us-betsy_ross",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-betsy_ross.svg"
+        },
+        {
+            "name": "us-confederate_battle",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-confederate_battle.svg"
+        },
+        {
+            "name": "ru-cu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-cu.svg"
+        },
+        {
+            "name": "au-torres_strait_islands",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-torres_strait_islands.svg"
+        },
+        {
+            "name": "in-mn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-mn.svg"
+        },
+        {
+            "name": "tg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tg.svg"
+        },
+        {
+            "name": "cn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cn.svg"
+        },
+        {
+            "name": "it-78",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-78.svg"
+        },
+        {
+            "name": "ru-lpr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-lpr.svg"
+        },
+        {
+            "name": "bj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bj.svg"
+        },
+        {
+            "name": "aq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/aq.svg"
+        },
+        {
+            "name": "cy",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cy.svg"
+        },
+        {
+            "name": "af",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/af.svg"
+        },
+        {
+            "name": "lv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lv.svg"
+        },
+        {
+            "name": "om",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/om.svg"
+        },
+        {
+            "name": "mr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mr.svg"
+        },
+        {
+            "name": "ni",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ni.svg"
+        },
+        {
+            "name": "la",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/la.svg"
+        },
+        {
+            "name": "me",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/me.svg"
+        },
+        {
+            "name": "mh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mh.svg"
+        },
+        {
+            "name": "gb-wls",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-wls.svg"
+        },
+        {
+            "name": "cc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cc.svg"
+        },
+        {
+            "name": "it-75",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-75.svg"
+        },
+        {
+            "name": "bg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bg.svg"
+        },
+        {
+            "name": "tj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tj.svg"
+        },
+        {
+            "name": "un",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/un.svg"
+        },
+        {
+            "name": "vu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/vu.svg"
+        },
+        {
+            "name": "wf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/wf.svg"
+        },
+        {
+            "name": "uy",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/uy.svg"
+        },
+        {
+            "name": "us-tx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-tx.svg"
+        },
+        {
+            "name": "za",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/za.svg"
+        },
+        {
+            "name": "zw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/zw.svg"
+        },
+        {
+            "name": "us-tn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-tn.svg"
+        },
+        {
+            "name": "vc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/vc.svg"
+        },
+        {
+            "name": "ca-bc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ca-bc.svg"
+        },
+        {
+            "name": "tk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tk.svg"
+        },
+        {
+            "name": "bf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bf.svg"
+        },
+        {
+            "name": "bq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bq.svg"
+        },
+        {
+            "name": "cu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cu.svg"
+        },
+        {
+            "name": "ne",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ne.svg"
+        },
+        {
+            "name": "nr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nr.svg"
+        },
+        {
+            "name": "mk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mk.svg"
+        },
+        {
+            "name": "np",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/np.svg"
+        },
+        {
+            "name": "ng",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ng.svg"
+        },
+        {
+            "name": "us-az",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-az.svg"
+        },
+        {
+            "name": "bs",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bs.svg"
+        },
+        {
+            "name": "us-mn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-mn.svg"
+        },
+        {
+            "name": "cw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cw.svg"
+        },
+        {
+            "name": "it-62",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-62.svg"
+        },
+        {
+            "name": "bd",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bd.svg"
+        },
+        {
+            "name": "um",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/um.svg"
+        },
+        {
+            "name": "va",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/va.svg"
+        },
+        {
+            "name": "uz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/uz.svg"
+        },
+        {
+            "name": "et-be",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-be.svg"
+        },
+        {
+            "name": "xk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/xk.svg"
+        },
+        {
+            "name": "ec-w",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ec-w.svg"
+        },
+        {
+            "name": "ws",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ws.svg"
+        },
+        {
+            "name": "th",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/th.svg"
+        },
+        {
+            "name": "it-77",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-77.svg"
+        },
+        {
+            "name": "ca",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ca.svg"
+        },
+        {
+            "name": "be",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/be.svg"
+        },
+        {
+            "name": "us-nc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-nc.svg"
+        },
+        {
+            "name": "cv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cv.svg"
+        },
+        {
+            "name": "us-mo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-mo.svg"
+        },
+        {
+            "name": "ai",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ai.svg"
+        },
+        {
+            "name": "br",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/br.svg"
+        },
+        {
+            "name": "ly",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ly.svg"
+        },
+        {
+            "name": "nf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nf.svg"
+        },
+        {
+            "name": "it-88",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-88.svg"
+        },
+        {
+            "name": "et-ti",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-ti.svg"
+        },
+        {
+            "name": "us-al",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-al.svg"
+        },
+        {
+            "name": "my",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/my.svg"
+        },
+        {
+            "name": "mn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mn.svg"
+        },
+        {
+            "name": "nu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nu.svg"
+        },
+        {
+            "name": "it-67",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-67.svg"
+        },
+        {
+            "name": "az",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/az.svg"
+        },
+        {
+            "name": "ba",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ba.svg"
+        },
+        {
+            "name": "bv",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bv.svg"
+        },
+        {
+            "name": "am",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/am.svg"
+        },
+        {
+            "name": "cr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cr.svg"
+        },
+        {
+            "name": "tl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tl.svg"
+        },
+        {
+            "name": "es-ar",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ar.svg"
+        },
+        {
+            "name": "xx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/xx.svg"
+        },
+        {
+            "name": "us-um",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-um.svg"
+        },
+        {
+            "name": "ru-ud",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-ud.svg"
+        },
+        {
+            "name": "european_union",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/european_union.svg"
+        },
+        {
+            "name": "kikuyu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kikuyu.svg"
+        },
+        {
+            "name": "au-qld",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-qld.svg"
+        },
+        {
+            "name": "south_ossetia",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/south_ossetia.svg"
+        },
+        {
+            "name": "in-tg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-tg.svg"
+        },
+        {
+            "name": "cn-hk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cn-hk.svg"
+        },
+        {
+            "name": "ru-ta",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-ta.svg"
+        },
+        {
+            "name": "et-am",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-am.svg"
+        },
+        {
+            "name": "tm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tm.svg"
+        },
+        {
+            "name": "tz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tz.svg"
+        },
+        {
+            "name": "ve",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ve.svg"
+        },
+        {
+            "name": "al",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/al.svg"
+        },
+        {
+            "name": "bw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bw.svg"
+        },
+        {
+            "name": "it-72",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-72.svg"
+        },
+        {
+            "name": "cd",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cd.svg"
+        },
+        {
+            "name": "sami",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sami.svg"
+        },
+        {
+            "name": "lk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/lk.svg"
+        },
+        {
+            "name": "mo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mo.svg"
+        },
+        {
+            "name": "us-ca",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ca.svg"
+        },
+        {
+            "name": "mx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mx.svg"
+        },
+        {
+            "name": "nc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/nc.svg"
+        },
+        {
+            "name": "na",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/na.svg"
+        },
+        {
+            "name": "mz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mz.svg"
+        },
+        {
+            "name": "li",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/li.svg"
+        },
+        {
+            "name": "easter_island",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/easter_island.svg"
+        },
+        {
+            "name": "us-ak",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ak.svg"
+        },
+        {
+            "name": "mm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/mm.svg"
+        },
+        {
+            "name": "cf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cf.svg"
+        },
+        {
+            "name": "bb",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bb.svg"
+        },
+        {
+            "name": "cq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cq.svg"
+        },
+        {
+            "name": "an",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/an.svg"
+        },
+        {
+            "name": "vg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/vg.svg"
+        },
+        {
+            "name": "to",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/to.svg"
+        },
+        {
+            "name": "uk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/uk.svg"
+        },
+        {
+            "name": "es-cn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-cn.svg"
+        },
+        {
+            "name": "id-jt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/id-jt.svg"
+        },
+        {
+            "name": "id-jb",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/id-jb.svg"
+        },
+        {
+            "name": "ru-dpr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ru-dpr.svg"
+        },
+        {
+            "name": "in-as",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-as.svg"
+        },
+        {
+            "name": "tn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/tn.svg"
+        },
+        {
+            "name": "et-or",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-or.svg"
+        },
+        {
+            "name": "kongo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kongo.svg"
+        },
+        {
+            "name": "ao",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ao.svg"
+        },
+        {
+            "name": "bt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/bt.svg"
+        },
+        {
+            "name": "cp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cp.svg"
+        },
+        {
+            "name": "ax",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ax.svg"
+        },
+        {
+            "name": "it-65",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it-65.svg"
+        },
+        {
+            "name": "cg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/cg.svg"
+        },
+        {
+            "name": "fr-cp",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fr-cp.svg"
+        },
+        {
+            "name": "ml",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ml.svg"
+        },
+        {
+            "name": "jo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/jo.svg"
+        },
+        {
+            "name": "it",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/it.svg"
+        },
+        {
+            "name": "ic",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ic.svg"
+        },
+        {
+            "name": "gh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gh.svg"
+        },
+        {
+            "name": "sm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sm.svg"
+        },
+        {
+            "name": "pa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pa.svg"
+        },
+        {
+            "name": "sz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sz.svg"
+        },
+        {
+            "name": "wiphala",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/wiphala.svg"
+        },
+        {
+            "name": "pt-30",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pt-30.svg"
+        },
+        {
+            "name": "pk-sd",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pk-sd.svg"
+        },
+        {
+            "name": "in-ka",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/in-ka.svg"
+        },
+        {
+            "name": "gb-eng",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gb-eng.svg"
+        },
+        {
+            "name": "us-pr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-pr.svg"
+        },
+        {
+            "name": "es-ga",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es-ga.svg"
+        },
+        {
+            "name": "pw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pw.svg"
+        },
+        {
+            "name": "sl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sl.svg"
+        },
+        {
+            "name": "de",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/de.svg"
+        },
+        {
+            "name": "ea",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ea.svg"
+        },
+        {
+            "name": "gi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gi.svg"
+        },
+        {
+            "name": "fm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fm.svg"
+        },
+        {
+            "name": "kh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kh.svg"
+        },
+        {
+            "name": "et-so",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-so.svg"
+        },
+        {
+            "name": "et",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et.svg"
+        },
+        {
+            "name": "fo",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fo.svg"
+        },
+        {
+            "name": "dg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/dg.svg"
+        },
+        {
+            "name": "ca-qc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ca-qc.svg"
+        },
+        {
+            "name": "fx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fx.svg"
+        },
+        {
+            "name": "ec",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ec.svg"
+        },
+        {
+            "name": "sn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sn.svg"
+        },
+        {
+            "name": "sy",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sy.svg"
+        },
+        {
+            "name": "ge-ab",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ge-ab.svg"
+        },
+        {
+            "name": "kanuri",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kanuri.svg"
+        },
+        {
+            "name": "sx",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sx.svg"
+        },
+        {
+            "name": "pt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pt.svg"
+        },
+        {
+            "name": "so",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/so.svg"
+        },
+        {
+            "name": "eu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/eu.svg"
+        },
+        {
+            "name": "us-dc",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-dc.svg"
+        },
+        {
+            "name": "jm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/jm.svg"
+        },
+        {
+            "name": "et-sn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-sn.svg"
+        },
+        {
+            "name": "hr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hr.svg"
+        },
+        {
+            "name": "ki",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ki.svg"
+        },
+        {
+            "name": "kz",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kz.svg"
+        },
+        {
+            "name": "ie",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ie.svg"
+        },
+        {
+            "name": "km",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/km.svg"
+        },
+        {
+            "name": "ir",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ir.svg"
+        },
+        {
+            "name": "gy",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gy.svg"
+        },
+        {
+            "name": "gn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gn.svg"
+        },
+        {
+            "name": "fj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fj.svg"
+        },
+        {
+            "name": "pg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pg.svg"
+        },
+        {
+            "name": "otomi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/otomi.svg"
+        },
+        {
+            "name": "sk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sk.svg"
+        },
+        {
+            "name": "fr-bre",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fr-bre.svg"
+        },
+        {
+            "name": "ro",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ro.svg"
+        },
+        {
+            "name": "au-act",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-act.svg"
+        },
+        {
+            "name": "au-tas",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-tas.svg"
+        },
+        {
+            "name": "sj",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sj.svg"
+        },
+        {
+            "name": "et-ha",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-ha.svg"
+        },
+        {
+            "name": "pf",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pf.svg"
+        },
+        {
+            "name": "fk",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fk.svg"
+        },
+        {
+            "name": "eg",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/eg.svg"
+        },
+        {
+            "name": "is",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/is.svg"
+        },
+        {
+            "name": "id",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/id.svg"
+        },
+        {
+            "name": "au-nsw",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-nsw.svg"
+        },
+        {
+            "name": "ky",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ky.svg"
+        },
+        {
+            "name": "au-wa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-wa.svg"
+        },
+        {
+            "name": "us-fl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-fl.svg"
+        },
+        {
+            "name": "au-aboriginal",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-aboriginal.svg"
+        },
+        {
+            "name": "iq",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/iq.svg"
+        },
+        {
+            "name": "kn",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/kn.svg"
+        },
+        {
+            "name": "et-si",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/et-si.svg"
+        },
+        {
+            "name": "hu",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hu.svg"
+        },
+        {
+            "name": "ee",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ee.svg"
+        },
+        {
+            "name": "er",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/er.svg"
+        },
+        {
+            "name": "fi",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/fi.svg"
+        },
+        {
+            "name": "gm",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gm.svg"
+        },
+        {
+            "name": "au-nt",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/au-nt.svg"
+        },
+        {
+            "name": "sh",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/sh.svg"
+        },
+        {
+            "name": "ps",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ps.svg"
+        },
+        {
+            "name": "us-ri",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/us-ri.svg"
+        },
+        {
+            "name": "malayali",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/malayali.svg"
+        },
+        {
+            "name": "hmong",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/hmong.svg"
+        },
+        {
+            "name": "pt-20",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pt-20.svg"
+        },
+        {
+            "name": "pr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pr.svg"
+        },
+        {
+            "name": "si",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/si.svg"
+        },
+        {
+            "name": "transnistria",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/transnistria.svg"
+        },
+        {
+            "name": "ch-gr",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ch-gr.svg"
+        },
+        {
+            "name": "pe",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/pe.svg"
+        },
+        {
+            "name": "qa",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/qa.svg"
+        },
+        {
+            "name": "gl",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/gl.svg"
+        },
+        {
+            "name": "es",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/es.svg"
+        },
+        {
+            "name": "ht",
+            "url": "https://raw.githubusercontent.com/KynixInHK/ISO-3166-1/master/flags/ht.svg"
+        }
+    ]
+}
